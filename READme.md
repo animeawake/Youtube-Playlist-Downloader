@@ -19,7 +19,7 @@ Click below button to deploy.
 ## 📌 License
 ```
 Youtube-Playlist-Downloader, An Telegram Bot Project
-Copyright (c) 2021 Anjana Madu <https://github.com/animeawake>
+Copyright (c) 2021 Anime Awake <https://github.com/animeawake>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published by
